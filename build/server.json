@@ -1,0 +1,8 @@
+{
+    "listen": ":38281",
+    "target": "127.0.0.1:38280",
+    "mode": "fast3",
+    "nocomp": true,
+    "sockbuf": 16777217,
+    "dscp": 46
+}
